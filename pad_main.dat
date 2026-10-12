@@ -24,7 +24,7 @@
    cms_b2g_14_004        | [dataverse 4466 4468 4467]           | [dataverse cms_b2g_14_004 4460]           | CMS   -  8 TeV - Dark matter production with a ttbar pair (19.7/fb)
    cms_b2g_17_014        | [dataverse 4747 4749 4748]           | [dataverse cms_b2g_17_014 4750]           | CMS   - 13 TeV - Vector-like quarks with charge 5/3 with same-sign dileptons (35.9/fb)
    cms_exo_12_047        | [dataverse 4475 4474 4472]           | [dataverse cms_b2g_12_012 4457]           | CMS   -  8 TeV - Mono-photon (19.6/fb)
-   cms_exo_12_048        | [dataverse 4480 4479 4478]          | [dataverse cms_b2g_12_012 4457]           | CMS   -  8 TeV - Mono-jet (19.7/fb)
+   cms_exo_12_048        | [dataverse 39274 4479 4478]          | [dataverse cms_b2g_12_012 4457]           | CMS   -  8 TeV - Mono-jet (19.7/fb)
    cms_exo_16_010        | [dataverse 4483 4485 4486]           | [dataverse cms_exo_16_010 4484]           | CMS   - 13 TeV - Mono-Z (2.3/fb)
    cms_exo_16_012        | [dataverse 4490 4491 4489]           | [dataverse cms_exo_16_012 4488]           | CMS   - 13 TeV - Mono-Higgs in the diphoton channel (2.3/fb)
    cms_exo_16_022        | [dataverse 4530 4527 4529]           | [dataverse cms_exo_16_022 4528]           | CMS   - 13 TeV - Displaced leptons (2.6/fb)
