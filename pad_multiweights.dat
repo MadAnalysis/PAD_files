@@ -26,7 +26,7 @@
    cms_exo_12_047        | [dataverse 4475 4474 4472]           | [dataverse cms_b2g_12_012 4457]           | CMS   -  8 TeV - Mono-photon (19.6/fb)
    cms_exo_12_048        | [dataverse 39274 4479 4478]          | [dataverse cms_b2g_12_012 4457]           | CMS   -  8 TeV - Mono-jet (19.7/fb)
    cms_exo_16_010        | [dataverse 4483 4485 4486]           | [dataverse cms_exo_16_010 4484]           | CMS   - 13 TeV - Mono-Z (2.3/fb)
-   cms_exo_16_012        | [dataverse 4490 4491 4489]           | [dataverse cms_exo_16_012 4488]           | CMS   - 13 TeV - Mono-Higgs in the diphoton channel (2.3/fb)
+   cms_exo_16_012        | [dataverse 41556 4491 4489]          | [dataverse cms_exo_16_012 4488]           | CMS   - 13 TeV - Mono-Higgs in the diphoton channel (2.3/fb)
    cms_exo_16_022        | [dataverse 4530 4527 4529]           | [dataverse cms_exo_16_022 4528]           | CMS   - 13 TeV - Displaced leptons (2.6/fb)
    cms_exo_17_009        | [dataverse 12160 12060 12066]        | [dataverse cms_exo_17_015 12062]          | CMS   - 13 TeV - Leptoquark pairs in the electron(s)+jets channel (35.9/fb)
    cms_exo_17_015        | [dataverse 1540 1538 1541]           | [dataverse cms_exo_17_015 1539]           | CMS   - 13 TeV - Leptoquark+DM in the 1 mu+1jet + met channel (77.4/fb)
